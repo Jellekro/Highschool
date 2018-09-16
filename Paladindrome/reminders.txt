@@ -1,0 +1,5 @@
+Please enter a positive integer between 1 and $ inclusive.
+Please enter an even integer between 8 and $ inclusive.
+WARNING: entering too small a scale value can cause a StackOverflowError depending on your device's capabilities.
+Please enter a positive integer between 0 and 100 inclusive (ex: 37 is 37%).
+WARNING: percentages over about 50 result in exponentially longer load times.

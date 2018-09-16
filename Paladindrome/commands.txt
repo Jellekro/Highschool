@@ -1,0 +1,3 @@
+Enter the number of $s# you want spawned in your game (default is 1).
+Enter a scale for your map (default is 300).
+Enter the percentage of your playing field you want filled with barrier tiles (default is 20).
