@@ -1,0 +1,20 @@
+In sudoku the game is based around a value "n".
+This variable n defines the size of the board.
+The board is composed of boxes, rows, and columns, which can each be split into cells
+The board is a n^2 by n^2 board, each row is n^2 long, each column is n^2 tall, and each box is n by n making n^2 cells in each box.
+You start the board with some given numbers that are within the range of 1 to n^2.
+You solve the board by filling in numbers according to the rules of sudoku.
+The rules are the you cannot place two numbers in the same cell, the board must be filled out to win, and you must obey the "one rule".
+The one rule states that each box, row, and column must contain the numbers 1 through n^2.
+Normally sudoku is played with an n of 3 but my game is based around an n of 2.
+However, some functions in my code work for both an n of 3 and 2.
+*0s represent empty cells in my game
+*you press f6 to begin
+
+Example:
+n = 3
+
+board length = 9
+box size = 3 by 3
+column height = 9
+row length = 9
