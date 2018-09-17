@@ -1,0 +1,5 @@
+clean code
+working effectively with legacy code
+manage your project portfolio
+lean software development
+continuous delivery
